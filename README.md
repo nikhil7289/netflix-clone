@@ -22,17 +22,27 @@
 ## 🧐 About <a name = "about"></a>
 The objective of a Netflix clone is to provide quality video content and a seamless user experience..The Netflix clone project's primary objective is to offer users a familiar and enjoyable streaming experience similar to Netflix. It seeks to deliver seamless navigation, personalized content recommendations, and a user-friendly interface that makes discovering and watching movies and shows easy and engaging. By replicating the success of Netflix while possibly incorporating unique features and improvements, the project aims to cater to entertainment enthusiasts worldwide and become a go-to platform for their viewing pleasure.
 
-![Screenshot (16)](https://github.com/nikhil7289/netflix-clone/assets/122282658/21f633d7-fc92-4810-9e0c-0498b6951a4b)
+<img width="960" alt="Screenshot (16)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/92ddd3a8-08c5-4a4f-ad50-f52fbe435b38">
 
-![Screenshot (15)](https://github.com/nikhil7289/netflix-clone/assets/122282658/887d4a52-2c6b-48cd-ae53-dfd77a36f5c6)
+<img width="960" alt="Screenshot (15)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/e1770a8d-a6e8-4978-a77d-e1f8d4d86632">
 
-![Screenshot (11)](https://github.com/nikhil7289/netflix-clone/assets/122282658/2b6571c0-f3ca-44f1-b2ca-3de2c157b288)
 
-![Screenshot (12)](https://github.com/nikhil7289/netflix-clone/assets/122282658/e08246ba-2276-4c82-8c64-1211b9b667a8)
+<img width="960" alt="Screenshot (11)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/2b0dad39-f11b-4ac8-84c4-5cdc25de2753">
 
-![Screenshot (13)](https://github.com/nikhil7289/netflix-clone/assets/122282658/1a28baca-6b0a-4987-a94e-ef4f4f5ad49e)
+<img width="960" alt="Screenshot (12)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/5c830223-f5a6-4484-88f7-9bf63291c82c">
 
-![Screenshot (14)](https://github.com/nikhil7289/netflix-clone/assets/122282658/00b52ebf-0b21-4455-8845-52f77ed0b44d)
+
+<img width="960" alt="Screenshot (13)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/802a9a20-71f7-4077-ba6a-faa2e8522156">
+
+
+<img width="960" alt="Screenshot (14)" src="https://github.com/nikhil7289/netflix-clone/assets/122282658/24573da2-f055-4e90-bb47-245e184ed5d6">
+
+
+
+
+
+
+
 
 ### Prerequisites
 
