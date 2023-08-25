@@ -72,8 +72,8 @@ and more while charging the users a monthly subscription fee.
 
 I have deployed my frontend application on vercel and bankend application on render. 
 
-frontend URL: 
-backend URL: 
+frontend URL: https://relaxed-mochi-f478e3.netlify.app
+backend URL: https://netflix-backend-dmi6.onrender.com
 
 
 
